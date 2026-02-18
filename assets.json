@@ -1,8 +1,62 @@
 [
   {
     "id": "point_1",
-    "name": "point_1",
+    "name": "포인트_1",
     "url": "https://raw.githubusercontent.com/yooseon0096/3d-assets/main/assets/point%201.png",
+    "tags": []
+  }, 
+  {
+    "id": "point_2",
+    "name": "포인트_2",
+    "url": "https://raw.githubusercontent.com/yooseon0096/3d-assets/main/assets/point%202.png",
+    "tags": []
+  }, 
+  {
+    "id": "point_3",
+    "name": "포인트_3",
+    "url": "https://raw.githubusercontent.com/yooseon0096/3d-assets/main/assets/point%203.png",
+    "tags": []
+  }, 
+  {
+    "id": "point_4",
+    "name": "포인트_4",
+    "url": "https://raw.githubusercontent.com/yooseon0096/3d-assets/main/assets/point%204.png",
+    "tags": []
+  }, 
+  {
+    "id": "point_5",
+    "name": "포인트_5",
+    "url": "https://raw.githubusercontent.com/yooseon0096/3d-assets/main/assets/point%205.png",
+    "tags": []
+  }, 
+  {
+    "id": "point_6",
+    "name": "포인트_6",
+    "url": "https://raw.githubusercontent.com/yooseon0096/3d-assets/main/assets/point%206.png",
+    "tags": []
+  }, 
+  {
+    "id": "point_7",
+    "name": "포인트_7",
+    "url": "https://raw.githubusercontent.com/yooseon0096/3d-assets/main/assets/point%207.png",
+    "tags": []
+  }, 
+  {
+    "id": "point_hand",
+    "name": "포인트_손",
+    "url": "https://raw.githubusercontent.com/yooseon0096/3d-assets/main/assets/point_hand.png",
+    "tags": []
+  }, 
+  {
+    "id": "point_pouch",
+    "name": "포인트_파우치",
+    "url": "https://raw.githubusercontent.com/yooseon0096/3d-assets/main/assets/point_ㅔㅐㅕ초.png",
+    "tags": []
+  }, 
+  {
+    "id": "point_wallet",
+    "name": "포인트_지갑",
+    "url": "https://raw.githubusercontent.com/yooseon0096/3d-assets/main/assets/point_wallet.png",
     "tags": []
   }
 ]
